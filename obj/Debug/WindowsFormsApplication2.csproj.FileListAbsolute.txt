@@ -1,0 +1,12 @@
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Dawert\Desktop\SPO\Kernel\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Dawert\Desktop\SPO\КП Код\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Dawert\Desktop\SPO\КП Код\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Dawert\Desktop\SPO\КП Код\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
